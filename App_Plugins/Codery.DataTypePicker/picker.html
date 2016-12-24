@@ -1,0 +1,4 @@
+<select ng-controller="Codery.DataTypePickerController"
+        ng-model="model.value"
+        ng-options="dt.id as dt.name for dt in dataTypes | orderBy: 'name'">
+</select>
