@@ -7,15 +7,15 @@
     <authors>$author$</authors>
     <owners>$author$</owners>
     <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
-    <projectUrl>http://codery.co.uk</projectUrl>
-    <iconUrl>http://cdn.codery.co.uk/nuget/DataTypePicker.jpg</iconUrl>
+    <projectUrl>https://codery.co.uk</projectUrl>
+    <iconUrl>https://cdn.codery.co.uk/nuget/DataTypePicker.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Retargeted to .NET v4.5 for wider compatibility.</releaseNotes>
-    <copyright>Copyright 2017</copyright>
+    <releaseNotes>Added Umbraco v8.1 compatibility.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
     <tags>umbraco prevalue editor</tags>
     <dependencies>
-      <dependency id="UmbracoCms" version="[7.4.0,8.0.0)" />
+      <dependency id="UmbracoCms" version="[8.1.0,9.0.0)" />
     </dependencies>
   </metadata>
   <files>
