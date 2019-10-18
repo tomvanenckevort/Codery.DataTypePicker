@@ -15,7 +15,7 @@
     <copyright>Copyright 2019</copyright>
     <tags>umbraco prevalue editor</tags>
     <dependencies>
-      <dependency id="UmbracoCms" version="[8.1.0,9.0.0)" />
+      <dependency id="UmbracoCms.Web" version="[8.1.0,9.0.0)" />
     </dependencies>
   </metadata>
   <files>
