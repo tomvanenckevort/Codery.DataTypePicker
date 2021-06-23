@@ -7,12 +7,12 @@
     <authors>$author$</authors>
     <owners>$author$</owners>
     <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
-    <projectUrl>https://codery.co.uk</projectUrl>
-    <iconUrl>https://cdn.codery.co.uk/nuget/DataTypePicker.jpg</iconUrl>
+    <projectUrl>https://github.com/tomvanenckevort/Codery.DataTypePicker</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/tomvanenckevort/Codery.DataTypePicker/master/DataTypePicker.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Added Umbraco v8.1 compatibility.</releaseNotes>
-    <copyright>Copyright 2019</copyright>
+    <releaseNotes>Breaking change: chosen data type key (GUID) will now be stored instead of the ID (integer).</releaseNotes>
+    <copyright>Copyright 2021</copyright>
     <tags>umbraco prevalue editor</tags>
     <dependencies>
       <dependency id="UmbracoCms.Web" version="[8.1.0,9.0.0)" />

@@ -22,7 +22,7 @@ public class MyCustomPropertyEditor : PropertyEditor
 }
 ```
 In your new property editor class, create a new data type field and use the supplied view and controller paths to initialise the picker.
-The value stored will be the ID of the selected data type.
+The value stored will be the key (GUID) of the selected data type (note: in older versions of this package, pre v2.1.0, this stored the ID instead).
 
 How to install it
 -----------------
